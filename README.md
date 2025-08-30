@@ -1,2 +1,0 @@
-# PJSponte
-Para testes
